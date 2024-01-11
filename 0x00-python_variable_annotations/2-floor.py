@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
-def to_str(n: float) -> str:
-    """Convert a float to its string representation."""
-    return str(n)
+"""Task 2."""
+
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.'''
+    return int(a)
