@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""Task 4.
-"""
+"""Module Task 4."""
 
 
 a: int = 1
